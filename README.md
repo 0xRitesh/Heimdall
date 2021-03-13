@@ -1,2 +1,2 @@
 # Heimdall Bot
- a Discord ot
+ a Discord Bot
